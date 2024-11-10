@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mennatullah</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-
+- 🔭 Topics that I'm interested in Performance and Responsive web design
+  
 - 📫 How to reach me **menna.tullah5112@gmail.com**
-
-- ⚡ Fun fact **I like Ice Bear from (we Bare Bear cartoon)**
+  
+- ⚡ Fun fact **I like Ice Bear from (the We Bare Bear cartoon)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
